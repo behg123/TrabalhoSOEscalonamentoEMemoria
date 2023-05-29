@@ -1,0 +1,161 @@
+# depslib dependency file v1.0
+1684197190 source:f:\c++\escalonador\cpu.o
+
+1684197431 source:f:\c++\escalonador\driver.o
+
+1684197190 source:f:\c++\escalonador\list.o
+
+1684198057 source:f:\c++\escalonador\schedule_rr.o
+
+1685222174 source:f:\c++\escalonador\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+	"schedule_fcfs.c"
+
+1685212054 f:\c++\escalonador\list.h
+	"task.h"
+
+1685208059 f:\c++\escalonador\task.h
+
+1685211251 f:\c++\escalonador\schedule_fcfs.h
+
+1685222121 source:f:\c++\escalonador\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+
+1685208033 source:f:\c++\escalonador\schedule_fcfs.h
+
+1685222615 f:\c++\escalonador\schedule_fcfs.c
+	"schedule_fcfs.h"
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"list.h"
+	"CPU.c"
+	"task.h"
+
+1685212433 f:\c++\escalonador\cpu.c
+	<stdio.h>
+	"CPU.h"
+	"task.h"
+
+1685210580 f:\c++\escalonador\cpu.h
+	"task.h"
+
+1685212746 f:\c++\escalonador\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1685222121 source:d:\projetos\escalonador\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+
+1685212054 d:\projetos\escalonador\list.h
+	"task.h"
+
+1685208059 d:\projetos\escalonador\task.h
+
+1685211251 source:d:\projetos\escalonador\schedule_fcfs.h
+
+1685225751 source:d:\projetos\escalonador\driver.c
+	<Windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"list.h"
+	"schedule_fcfs.c"
+
+1685225915 d:\projetos\escalonador\schedule_fcfs.c
+	<Windows.h>
+	"schedule_fcfs.h"
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"list.h"
+	"CPU.c"
+	"task.h"
+
+1685211251 d:\projetos\escalonador\schedule_fcfs.h
+
+1685212433 d:\projetos\escalonador\cpu.c
+	<stdio.h>
+	"CPU.h"
+	"task.h"
+
+1685210580 d:\projetos\escalonador\cpu.h
+	"task.h"
+
+1685311501 source:c:\users\usuario\downloads\escalonador\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+
+1685315263 c:\users\usuario\downloads\escalonador\list.h
+	"task.h"
+
+1685208059 c:\users\usuario\downloads\escalonador\task.h
+
+1685330478 source:c:\users\usuario\downloads\escalonador\driver.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"schedule_rr_p.c"
+
+1685330226 c:\users\usuario\downloads\escalonador\schedule_fcfs.c
+	<locale.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"schedule_fcfs.h"
+
+1685317141 c:\users\usuario\downloads\escalonador\schedule_fcfs.h
+	"CPU.c"
+
+1685311501 c:\users\usuario\downloads\escalonador\list.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"list.h"
+
+1685314904 c:\users\usuario\downloads\escalonador\cpu.c
+	<stdio.h>
+	"CPU.h"
+
+1685315554 c:\users\usuario\downloads\escalonador\cpu.h
+	"list.h"
+
+1685330397 c:\users\usuario\downloads\escalonador\schedule_rr.c
+	<locale.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+	"schedule_rr.h"
+
+1685315628 c:\users\usuario\downloads\escalonador\schedule_rr.h
+	"CPU.c"
+
+1685330297 c:\users\usuario\downloads\escalonador\schedule_rr_p.c
+	"schedule_rr_p.h"
+	<locale.h>
+	<stdio.h>
+	<windows.h>
+	<stdlib.h>
+	<time.h>
+
+1685317156 c:\users\usuario\downloads\escalonador\schedule_rr_p.h
+	"CPU.c"
+
